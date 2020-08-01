@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+    <group>
+    <text>
+        <title>解锁高级版是什么?真的要花钱吗?</title>
+        <desc>dogeland的高级版,不需要花任何钱,甚至直接向开发者获取解锁版都行,不同于传统的VIP,
+        不会限制时间,激活就是永久,高级版只是为了某些大佬提供更加便利的功能,也许可能也用不上...
+        </desc>
+    </text>
+    </group>
+    <group>
+      <text>
+        <title>如何申请解锁🔒高级版?</title>
+        <desc>去官方群向开发者索要或者去Github提交issue即可
+        注意: 
+        激活码 是可以重复使用的,并且并不加密,请勿泄露给其他人,不限制设备,不获取设备ID
+        开启高级版需要连接到Github,请确保网络通常,只需要获取一个1-2kb的文件即可永久激活(卸载应用或者清除需要重新激活)
+        如果激活失败,请安装 curl 插件包之后重新激活即可
+        </desc>
+    </text>
+</group>
+  <group>
+        <action>
+            <title>解锁成功</title>
+            <desc>已是高级版</desc>
+        </action>
+    </group>
+</items>
